@@ -18,7 +18,7 @@ public class MyApp extends Application {
 
     private static String msgMovie;
 
-    private static String msgContacts;
+    public static String msgContacts;
 
     @Override
     public void onCreate() {
